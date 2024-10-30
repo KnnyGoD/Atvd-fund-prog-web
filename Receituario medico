@@ -1,0 +1,24 @@
+<receituario>
+    <paciente>
+        <nome>Ana Maria Marina</nome>
+        <idade>7 anos</idade>
+    </paciente>
+    <medico>
+        <nome>Dr. Juca</nome>
+        <especialidade>Pediatria</especialidade>
+    </medico>
+    <data_emissao>20-10-2001</data_emissao>
+    <medicamentos>
+        <medicamento>
+            <nome>Xarope SemTosse</nome>
+            <dosagem>1 colher</dosagem>
+            <frequencia>1 colher a cada 8 horas</frequencia>
+        </medicamento>
+        <medicamento>
+            <nome>Gyellow</nome>
+            <dosagem>1 seringa</dosagem>
+            <frequencia>aplicar no braço ao dia ao deitar</frequencia>
+            <duracao>7 dias</duracao>
+        </medicamento>
+    </medicamentos> 
+</receituario>
