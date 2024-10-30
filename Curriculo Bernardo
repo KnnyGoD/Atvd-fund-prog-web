@@ -1,0 +1,47 @@
+<curriculo>
+    <dados_pessoais>
+        <nome>Bernardo Tuzin</nome>
+        <data_nascimento>07-07-2001</data_nascimento>
+        <endereco>
+            <rua>Tristão de Araujo Nobrega</rua>
+            <numero>777</numero>
+            <cidade>Chique Chique</cidade>
+            <estado>BA</estado>
+            <cep>4000-000</cep>
+        </endereco>
+        <telefone>(55)4002-8922</telefone>
+        <email>bernardo_tuzin@gmail.com</email>
+    </dados_pessoais>
+    
+    <formacao>
+        <graduacao>
+            <curso>Manipulador de produtos perigosos</curso>
+            <instituicao>Universidade de São Paulo</instituicao>
+            <ano_conclusao>2022</ano_conclusao>
+        </graduacao>
+    </formacao>
+    
+    <idiomas>
+        <idioma>
+            <nome>Portugues</nome>
+            <nivel>Intermediario</nivel>
+        </idioma>
+        <idioma>
+            <nome>Espanhol</nome>
+            <nivel>Iniciante</nivel>
+        </idioma>
+    </idiomas>
+    
+    <cursos_adicionais>
+        <curso>
+            <nome>Curso de Excel Avançado</nome>
+            <instituicao>Fundação bradesco</instituicao>
+            <ano_conclusao>2022</ano_conclusao>
+        </curso>
+        <curso>
+            <nome>Curso de Word iniciante</nome>
+            <instituicao>Fundação bradesco</instituicao>
+            <ano_conclusao>2022</ano_conclusao>
+        </curso>
+    </cursos_adicionais>
+</curriculo>
