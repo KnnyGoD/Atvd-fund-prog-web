@@ -1,6 +1,6 @@
 <curriculo>
     <dados_pessoais>
-        <nome>Bernardo Tuzin</nome>
+        <nome>Rafael Borre</nome>
         <data_nascimento>07-07-2001</data_nascimento>
         <endereco>
             <rua>Tristão de Araujo Nobrega</rua>
@@ -10,7 +10,7 @@
             <cep>4000-000</cep>
         </endereco>
         <telefone>(55)4002-8922</telefone>
-        <email>bernardo_tuzin@gmail.com</email>
+        <email>avilacomprarp@gmail.com</email>
     </dados_pessoais>
     
     <formacao>
